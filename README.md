@@ -16,3 +16,5 @@ https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-
 
 //IPFS tutorials
 https://docs.ipfs.io/how-to/
+
+testing IFTTT
