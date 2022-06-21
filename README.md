@@ -10,3 +10,6 @@ https://www.researchgate.net/publication/346069303_Offline_but_still_connected_w
 
 //New Packet Radio
 https://hackaday.io/project/164092-npr-new-packet-radio
+
+//Comprehensive Technical Guide on IPFS (use for determing strength of a node, bandwidth, etc.)
+https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/
